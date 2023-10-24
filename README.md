@@ -1,5 +1,5 @@
 Note:
-This is a plyer vs player Tic-Tac-Toe game Build by java in Vs code.
+This is a plyer vs player Tic-Tac-Toe game build by java in Vs code.
 
 ## Getting Started
 
